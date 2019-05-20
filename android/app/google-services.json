@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370025970845",
+    "firebase_url": "https://mobile-90861.firebaseio.com",
+    "project_id": "mobile-90861",
+    "storage_bucket": "mobile-90861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370025970845:android:b08dc705640d567f",
+        "android_client_info": {
+          "package_name": "br.com.anderson.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370025970845-lilje452clkfpk6h2jrmti2rdioejdhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiviuB5XQIwkmar1WYctsISi9OI8DrwRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370025970845-lilje452clkfpk6h2jrmti2rdioejdhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
